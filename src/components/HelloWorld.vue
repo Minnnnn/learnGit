@@ -9,7 +9,7 @@ onMounted(() => {
 })
 
 const a = () => {
-  console.log('ccc')
+  console.log('c1cc')
 }
 </script>
 
